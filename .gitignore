@@ -1,0 +1,12 @@
+build/
+*.o
+*.obj
+*.so
+*.lib
+*.dll
+*.dylib
+*.log
+*.vs
+*.idea
+*.vscode
+*.geode

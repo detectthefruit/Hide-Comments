@@ -1,0 +1,22 @@
+{
+  "geode": "1.0.5",
+  "gd": {
+    "win": "*",
+    "mac": "*",
+    "android": "*",
+    "ios": "*"
+  },
+  "version": "1.0.0",
+  "id": "detectthefruit.hide-comments",
+  "name": "Hide Comments",
+  "developer": "detectthefruit",
+  "description": "Hides comments from blocked users in Geometry Dash.",
+  "settings": {
+    "hideBlockedComments": {
+      "type": "bool",
+      "default": true,
+      "name": "Hide blocked user comments",
+      "description": "Hide comments authored by blocked users in the comment list."
+    }
+  }
+}
